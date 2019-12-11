@@ -1,0 +1,30 @@
+.form-control-danger {
+    border: 1px solid red !important;
+}
+.error {
+    color: red;
+}
+.mandatory {
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+.forgot {
+    color: #e21837 !important;
+    border-bottom: 1px solid #e21837 !important;
+    display: inline-block;
+    line-height: 18px;
+    cursor: pointer;
+}
+.term_conditions label {
+    line-height: 20px;
+}
+.term_conditions label a {
+    color: #e21837;
+    border-bottom: 1px solid;
+}
+
+.banner-border {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
